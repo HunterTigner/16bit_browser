@@ -1,0 +1,81 @@
+Cranbero License
+
+Version 26.1.1 October, 2026
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+Established by  Seok-bong, Hunter Tigner.
+
+1. Redistributing base-projects
+
+You may redistribute base projects, but if the code includes a 0.6:1.0 similarity ratio, this exceeds the usage permissions and is code plagiarism, as mentioned in Term 3. Term 8 and Term 9 may apply. 
+
+2. Authors of base-project
+
+If an author's name of any kind (display, user, email, real, and other similar things.) exceeds 25 characters, a separate CREDITS file may be used. The NOTICE file must reference the CREDITS file. this is to prevent abuse so base-project author can't abuse and bloat NOTICE file with 1,000 letters to be annoying 
+
+3. Usage Permissions
+
+By using the project, you can copy an amount of 0.3:1.0 similarity ratio, pass: This exceeds the usage permissions being code plagiarism, and abuses the license. It may result in an immediate cease-and-desist, a DMCA takedown, or license revocation under Section 9.
+
+4. Brand Identity 
+
+Logos may not exceed a 0.6:1.0 similarity ratio, and banners may not exceed 0.1:1.0. Exceeding these limits is considered brand theft, resulting in an immediate Cease-and-Desist, DMCA Takedown, or license revocation under Section 9.
+
+5. Expiration Date
+
+Expiration Date (Optional by base-project) Expiration date is optional for creators of base-project but must include a valid date within 0 to 2 years. Expiration date is optional for the base-project. Expiration date is optional. Use this if you don't want people copying your project to make their own project based on yours, and you don't want them using base-project forever as their default.
+
+6. Limitation Of Liability for (new-project / base-project)
+
+Damage of individuals computer, is not new-projects fault if new-project includes 0-10% harm rate (0.1:1.0 means file-move, file-delete, the percentage is only higher if program new-project, base-project.) if more than 0.1:1.0 or more than list described, than new-project is at fault of visitors computer breaking, counting damage done is simple. If 10 project files were deleted for an application with a few thousand lines in each, then this is verified as a 0.1.0:1.0, the extra one is the decimal of the tenth, example: 0.1:1.0 = 10%/100%, 0.1.0:1.0 =  1%/100%.
+
+7. Severability  
+
+redistributing the new-project and converting it into an illegal new-project, with source-code that violates laws in countries mentioned: United States, Benin, Mexico. As this may cause you to go to jail or cause A lawsuit between A user and the author of new-project but also visitors, visiting new-project.
+
+8. Revocation time
+
+Revocation Time (Required by base-project) Revocation Time is required for creators of base-project but must include a valid date within 70 to 125 days. Revocation Time date is required for the base-project. Revocation Time is required.  
+this is for if the base-project creators, don't want people immediately coming back to use base-project after a few days.
+
+9. Revocation of rights
+
+$54-fine if the base-project contains, 95 assets, with 5,000 lines of program-code (not text) (No Paid assets)
+$27-fine if the base-project contains, 95 assets, with 5,000 lines of program-code (not text) (Paid assets)
+
+$54-fine if the base-project contains, 190 assets, with 6,250 lines of program-code (not text) (No Paid assets)
+$108-fine if the base-project contains, 190 assets, with 6,250 lines of program-code (not text) (Paid assets)
+
+$108-fine if the base-project contains, 380 assets, with 8,560 lines of program-code (not text) (No Paid assets)
+$216-fine if the base-project contains, 380 assets, with 8,560 lines of program-code (not text) (Paid assets)
+
+$362-fine if the base-project contains, 720 assets, with 18,120 lines of program-code (not text) (No Paid assets)
+$725-fine if the base-project contains, 720 assets, with 18,120 lines of program-code (not text) (Paid assets)
+
+$760-fine if the base-project contains, 1,520 assets, with 36,450 lines of program-code (not text) (No Paid assets)
+$1,520-fine if the base-project contains, 1,520 assets, with 36,450 lines of program-code (not text) (Paid assets)
+
+if a new-project copies this than they pay that amount to base-project authors, to use it again, not needed but pay if want to use or wait Revocation time (8), and if done again you wait again to use.
+
+10. Previous License Versions
+
+Any individual developer/team/company using previous license versions will stay on that license until they decide to update it. If not, they will continue on the old license version with the exact replica of the original license terms and conditions.
+
+11. Dictionary
+
+$-fine = An owed amount of money, to use base-project, again if new-project revocations of rights.
+
+Revocation = Revoking rights and crossing the line 
+
+0.N:1.0 = Ratio of how similar a project can be. The third digit "N" is A number if it is A number 1-9 it means the percentage multiplied by 10, 0.5:1.0 = (50%/100%)
+
+Individual = Human using the software, new-project or base-project 
+
+Individual developer = human creating a new project or base project. 
+
+Team = A small group of humans (5-35) that have created a new-project or base-project 
+
+Company = A large group of humans (100-5,000) that have created a new project or base project 
+
+12. Limitation Of Liability for (Cranbero)
+
+Any individual developer/team/company using this license, if anything goes wrong using the license, for example, to abuse it: you can send feedback, but not sue us. If any individual computer has broken or passed the 0-10% harm rate, any individual cannot do any suing to Cranbero License due to, we have no fault creator is at fault if goes wrong within 0-10% harm-rate, if A individual/team/company using this license detects A abuse switch to A safer license or closed-source while we fix the abuse. 
